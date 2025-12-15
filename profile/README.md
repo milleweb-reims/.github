@@ -1,4 +1,4 @@
-# Bienvenue chez **milleweb** 🌐
+# Bienvenue chez **milléweb** 🌐
 
 > **Accompagnement complet** pour créer un site web utile, rapide et plus éthique.  
 > Vitrine • E-commerce • Sur-mesure
@@ -7,7 +7,7 @@
 
 ## 👋 À propos
 
-Bienvenue sur l’organisation GitHub de **milleweb** !
+Bienvenue sur l’organisation GitHub de **milléweb** !
 
 J’accompagne les entreprises dans leur projet de création de site web.  
 Qu’il s’agisse d’un **site vitrine**, d’un **site e-commerce** ou d’un **développement sur-mesure**, je transforme le besoin client en **produit unique**.
@@ -39,7 +39,7 @@ Mon approche s’adresse aux entreprises qui veulent concilier **efficacité dig
 
 ## 🔒 Projets & dépôts privés
 
-En tant que freelance, **milleweb** valorise la **confidentialité** et la **personnalisation** pour chaque client.  
+En tant que freelance, **milléweb** valorise la **confidentialité** et la **personnalisation** pour chaque client.  
 Tous les dépôts liés aux projets sont **privés**, afin de garantir la **sécurité** et la **confidentialité** des données.
 
 <details>
